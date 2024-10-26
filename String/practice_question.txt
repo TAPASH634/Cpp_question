@@ -1,0 +1,68 @@
+/*Beginner*/
+
+1.Reverse a String: Write a function that takes a string as input and returns the string in reverse order.
+
+
+Input: "hello"
+
+Output: "olleh"
+
+2.Check for Palindrome: Write a function to check if a given string is a palindrome (reads the same backward and forward).
+
+Input: "racecar"
+
+Output: True
+
+3.Count Vowels in a String: Write a function to count the number of vowels (a, e, i, o, u) in a given string.
+
+Input: "hello world"
+
+Output: 3
+
+4.Find the Length of the Longest Word: Write a function that finds the length of the longest word in a given string.
+
+
+Input: "I love programming"
+
+Output: 11 (length of "programming")
+
+5.Remove Duplicates from a String: Write a function that removes duplicate characters from a string while preserving the order.
+
+
+Input: "aabbccdde"
+
+Output: "abcde"
+
+/*Intermediate*/
+
+6.Find All Substrings: Write a function that returns all possible substrings of a given string.
+
+
+Input: "abc"
+
+Output: ["a", "ab", "abc", "b", "bc", "c"]
+
+7.Check if Two Strings are Anagrams: Write a function that checks if two given strings are anagrams (contain the same characters in different order).
+
+
+Input: "listen", "silent"
+
+Output: True
+
+8.Find the First Non-Repeating Character: Write a function that finds the first character in a string that does not repeat.
+
+Input: "swiss"
+
+Output: "w"
+
+
+9.String Compression: Implement a basic string compression using the counts of repeated characters. For example, "aabcccccaaa" would become "a2b1c5a3". If the compressed string is longer than the original, return the original.
+
+
+Input: "aabcccccaaa"
+
+Output: "a2b1c5a3"
+
+/*Advanced*/
+
+10.Longest Palindromic Subs
